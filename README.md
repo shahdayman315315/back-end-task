@@ -156,4 +156,3 @@ Maintainability: Easier to update or replace frontend/backend separately
 
 
 
-أنت قلت:
